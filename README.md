@@ -4,7 +4,7 @@
 ## About Me 
 A students who loves programming from Taiwan.
 
-Check this for more -> [My HackMD](https://hackmd.io/@Youtong0826/about_me)
+Check this for more -> [HackMD](https://hackmd.io/@Youtong0826/about_me)
 
 ![Youtong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youtong0826&show_icons=true&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Youtong0826)](https://github.com/ryo-ma/github-profile-trophy)
