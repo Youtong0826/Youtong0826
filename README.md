@@ -15,6 +15,6 @@ Check this for more -> [HackMD](https://hackmd.io/@Youtong0826/about_me)
 ## Feature Project
 * Some Games Developed using Unity
 * Latex Text translation plugin
-* Machine Learing
+* Machine Learning
 * Personal Website
 * Taiwan Wheather Forcast Bot
