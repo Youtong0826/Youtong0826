@@ -11,10 +11,3 @@ Check here for more -> [HackMD](https://hackmd.io/@Youtong0826/about_me)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Youtong0826&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Feature Project
-* Some Games Developed using Unity
-* Latex Text translation plugin
-* Machine Learning
-* Personal Website
-* Taiwan Wheather Forcast Bot
