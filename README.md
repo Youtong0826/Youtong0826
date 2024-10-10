@@ -8,6 +8,3 @@ Check here for more -> [HackMD](https://hackmd.io/@Youtong0826/about_me)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Youtong0826&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Youtong0826" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Youtong0826&show_icons=true&locale=en&theme=tokyonight" alt="Youtong0826" /></p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Youtong0826&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
