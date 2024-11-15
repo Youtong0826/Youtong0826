@@ -4,7 +4,7 @@
 ## About Me 
 A students who loves programming from Taiwan.
 
-Check here for more -> [HackMD](https://hackmd.io/@Youtong0826/about_me)
+Check here for more -> [My blog](https://youtong0826.github.io/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Youtong0826&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Youtong0826" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Youtong0826&show_icons=true&locale=en&theme=tokyonight" alt="Youtong0826" /></p>
